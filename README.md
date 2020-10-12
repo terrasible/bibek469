@@ -10,7 +10,7 @@
 - 🌱 I’m currently providing the solutions to the client to go cloud native and adopt  the open-source tools and technology.
 - 👯 I’m looking to collaborate with other cloud and devops expertise So that you can help customer to provide hassle-free release and cost optimized cloud native solution. 
 - 🥅 2020 Goals: K8s certification and Contribute more to Open Source projects.
-- ⚡ Fun fact: I have a degree Mechanical Engineering.
+- ⚡ Fun fact: I have a degree in Mechanical Engineering.
 
 
 ### Connect with me:
