@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bibek469"| Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="bibek469 | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="bibek469 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bibek469 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bibek469 | Instagram" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="bibek469 | facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -62,8 +62,6 @@
 
 
 ---
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
