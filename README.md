@@ -15,9 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bibek469" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="bibek469"| Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="bibek469 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bibek469 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bibek469 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="bibek469 | Instagram" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 
@@ -53,7 +52,7 @@
 [<img align="left" alt="linux" width="36px" src="https://simpleicons.org/icons/linux.svg" />][Linkedin]
 [<img align="left" alt="redhat" width="36px" src="https://simpleicons.org/icons/redhat.svg" />][Linkedin]
 [<img align="left" alt="ubuntu" width="36px" src="https://simpleicons.org/icons/ubuntu.svg" />][Linkedin]
-[<img align="left" alt="shell" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Linkedin]
+
 
 <br />
 
@@ -64,15 +63,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
- 
- <!--START_SECTION:activity-->
- 
- <!--END_SECTION:activity-->
-
-
-</details>
 
 
 <details>
