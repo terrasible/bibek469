@@ -3,13 +3,13 @@
 ![Linkedin](https://img.shields.io/badge/<Cloud>-<DevOps>-<brightgreen>)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BibekRauniyar7?color=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbibek469&screen_name=BibekRauniyar7)
 
-## I'm a Cloud Architect, DevOps Engineer, Developer, and Trainer!!
+## I'm a Cloud Architect, DevOps Engineer, Freelancer, and Trainer!!
 
 - 🔭 2x Aws certified, azure certified, GCP certified, Terraform certified & Python certified
 - 🔭 I am currently working on DOAS [DevOps as a Service] solution.
 - 🌱 I’m currently providing the solutions to the client to go cloud native and adopt  the open-source tools and technology.
 - 👯 I’m looking to collaborate with other cloud and devops expertise So that you can help customer to provide hassle-free release and cost optimized cloud native solution. 
-- 🥅 2020 Goals: K8s certification and Contribute more to Open Source projects.
+- 🥅 2022 Goals: Partner up on new Ideas. Contribute more to Open Source projects.
 - ⚡ Fun fact: I have a degree in Mechanical Engineering.
 
 
