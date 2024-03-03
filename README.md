@@ -5,7 +5,7 @@
 
 ## I'm a Cloud Architect, DevOps Engineer, Freelancer, and Trainer!!
 
-- 🔭 2x Aws certified, azure certified, GCP certified, Terraform certified & Python certified
+- 🔭 2x Aws certified, Azure certified, GCP certified, Terraform certified & Python certified
 - 🔭 I am currently working on DOAS [DevOps as a Service] solution.
 - 🌱 I’m currently providing the solutions to the client to go cloud native and adopt  the open-source tools and technology.
 - 👯 I’m looking to collaborate with other cloud and devops expertise So that you can help customer to provide hassle-free release and cost optimized cloud native solution. 
