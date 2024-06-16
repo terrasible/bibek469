@@ -1,4 +1,4 @@
-### Hi there, I'm Bibek Rauniyar - aka [bibek469][Linkedin] 👋
+### Hi there, I'm Bibek Rauniyar - aka [terrasible][Linkedin] 👋
 
 ![Linkedin](https://img.shields.io/badge/<Cloud>-<DevOps>-<brightgreen>)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BibekRauniyar7?color=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbibek469&screen_name=BibekRauniyar7)
@@ -56,7 +56,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bibek's GitHub Stats" src="https://github-readme-stats-git-master.bibek469.vercel.app/api?username=bibek469&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="bibek's GitHub Stats" src="https://github-readme-stats-git-master.bibek469.vercel.app/api?username=terrasible&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
